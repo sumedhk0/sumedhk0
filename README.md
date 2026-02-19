@@ -2,7 +2,7 @@
 I'm currently working on generating a computer vision program to analyze sports footage, enabling players and coaches to actually "replay" film in 1st person, not just watch it.
 
 ## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh-kothari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skothari67@gatech.edu) [![Portfolio](https://img.shields.io/badge/Portfolio-blue
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh-kothari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skothari67@gatech.edu) [![Portfolio](https://img.shields.io/badge/Portfolio-green
 )](https://personal-website-psi-beige.vercel.app/)
 
 # 💻 Tech Stack:
